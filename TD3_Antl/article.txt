@@ -1,0 +1,53 @@
+
+bulletin
+
+et
+ou
+
+mot
+contenir
+parler
+
+
+?	.
+écrit	parler
+portant	parler
+rapport	parler
+parlent	parler
+concernent	parler
+traitent	parler
+concernant	parler
+contenant	contenir
+parle	parler
+parlant	parler
+mentionant	parler
+traitant	parler
+contient	contenir
+portant	contenir
+possédant le mot	mot
+possédants le mot	mot
+contient le mot	mot
+mentionnent	parler
+citent	parler
+contenant le mot	mot
+à propos des	parler
+contiennent les mots	parler
+contient le mot	parler
+contient le mot	parler
+cité	parler
+évoquent	parler
+trait	parler
+impliquant	impliquant
+écrit	parler
+liées	parler
+Donnez-moi	vouloir
+
+sujet	mot
+thème
+d’avant
+d’après
+Qu’est
+».
+»?
+Qui
+plus
